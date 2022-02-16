@@ -37,7 +37,6 @@ function App() {
         setCurrentNoteId={setCurrentNoteId}
         newNote={createNewNote}
       />
-      {currentNoteId && notes.length > 0}
     </main>
   )
 }
