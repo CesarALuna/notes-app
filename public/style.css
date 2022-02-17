@@ -44,7 +44,7 @@ button:focus {
 
 .new-note {
   cursor: pointer;
-  background-color: #4a4e74;
+  background-color: #674a74;
   border: none;
   color: white;
   border-radius: 3px;
@@ -54,7 +54,7 @@ button:focus {
 
 .first-note {
   cursor: pointer;
-  background-color: #4a4e74;
+  background-color: #674a74;
   border: none;
   color: white;
   border-radius: 3px;
@@ -95,7 +95,7 @@ button:focus {
   font-size: 0.8rem;
   font-weight: 400;
   line-height: 1.2rem;
-  color: #4a4e74;
+  color: #674a74;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
